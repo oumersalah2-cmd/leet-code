@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/oumersalah2-cmd/leet-code/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/oumersalah2-cmd/leet-code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0881-boats-to-save-people](https://github.com/oumersalah2-cmd/leet-code/tree/main/0881-boats-to-save-people/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/oumersalah2-cmd/leet-code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/oumersalah2-cmd/leet-code/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2540-minimum-common-value](https://github.com/oumersalah2-cmd/leet-code/tree/main/2540-minimum-common-value/) | Easy |
 ## Two Pointers
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/oumersalah2-cmd/leet-code/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/oumersalah2-cmd/leet-code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0881-boats-to-save-people](https://github.com/oumersalah2-cmd/leet-code/tree/main/0881-boats-to-save-people/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/oumersalah2-cmd/leet-code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/oumersalah2-cmd/leet-code/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2540-minimum-common-value](https://github.com/oumersalah2-cmd/leet-code/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
@@ -24,10 +26,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/oumersalah2-cmd/leet-code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0881-boats-to-save-people](https://github.com/oumersalah2-cmd/leet-code/tree/main/0881-boats-to-save-people/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/oumersalah2-cmd/leet-code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/oumersalah2-cmd/leet-code/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/oumersalah2-cmd/leet-code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/oumersalah2-cmd/leet-code/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2540-minimum-common-value](https://github.com/oumersalah2-cmd/leet-code/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
