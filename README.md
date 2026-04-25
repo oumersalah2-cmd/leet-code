@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/oumersalah2-cmd/leet-code/tree/main/0763-partition-labels/) | Medium |
 | [0881-boats-to-save-people](https://github.com/oumersalah2-cmd/leet-code/tree/main/0881-boats-to-save-people/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/oumersalah2-cmd/leet-code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1754-largest-merge-of-two-strings](https://github.com/oumersalah2-cmd/leet-code/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/oumersalah2-cmd/leet-code/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/oumersalah2-cmd/leet-code/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2540-minimum-common-value](https://github.com/oumersalah2-cmd/leet-code/tree/main/2540-minimum-common-value/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/oumersalah2-cmd/leet-code/tree/main/0011-container-with-most-water/) | Medium |
 | [0763-partition-labels](https://github.com/oumersalah2-cmd/leet-code/tree/main/0763-partition-labels/) | Medium |
 | [0881-boats-to-save-people](https://github.com/oumersalah2-cmd/leet-code/tree/main/0881-boats-to-save-people/) | Medium |
+| [1754-largest-merge-of-two-strings](https://github.com/oumersalah2-cmd/leet-code/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0763-partition-labels](https://github.com/oumersalah2-cmd/leet-code/tree/main/0763-partition-labels/) | Medium |
+| [1754-largest-merge-of-two-strings](https://github.com/oumersalah2-cmd/leet-code/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/oumersalah2-cmd/leet-code/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
