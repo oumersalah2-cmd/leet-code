@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/oumersalah2-cmd/leet-code/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/oumersalah2-cmd/leet-code/tree/main/0088-merge-sorted-array/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/oumersalah2-cmd/leet-code/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0881-boats-to-save-people](https://github.com/oumersalah2-cmd/leet-code/tree/main/0881-boats-to-save-people/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/oumersalah2-cmd/leet-code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/oumersalah2-cmd/leet-code/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -66,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/oumersalah2-cmd/leet-code/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/oumersalah2-cmd/leet-code/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
