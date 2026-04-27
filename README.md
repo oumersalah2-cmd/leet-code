@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/oumersalah2-cmd/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0763-partition-labels](https://github.com/oumersalah2-cmd/leet-code/tree/main/0763-partition-labels/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/oumersalah2-cmd/leet-code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/oumersalah2-cmd/leet-code/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/oumersalah2-cmd/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0763-partition-labels](https://github.com/oumersalah2-cmd/leet-code/tree/main/0763-partition-labels/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/oumersalah2-cmd/leet-code/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/oumersalah2-cmd/leet-code/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -70,5 +72,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/oumersalah2-cmd/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/oumersalah2-cmd/leet-code/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
