@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/oumersalah2-cmd/leet-code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/oumersalah2-cmd/leet-code/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0881-boats-to-save-people](https://github.com/oumersalah2-cmd/leet-code/tree/main/0881-boats-to-save-people/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/oumersalah2-cmd/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/oumersalah2-cmd/leet-code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/oumersalah2-cmd/leet-code/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/oumersalah2-cmd/leet-code/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0633-sum-of-square-numbers](https://github.com/oumersalah2-cmd/leet-code/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/oumersalah2-cmd/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2540-minimum-common-value](https://github.com/oumersalah2-cmd/leet-code/tree/main/2540-minimum-common-value/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -74,4 +76,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/oumersalah2-cmd/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/oumersalah2-cmd/leet-code/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/oumersalah2-cmd/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/oumersalah2-cmd/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
