@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/oumersalah2-cmd/leet-code/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/oumersalah2-cmd/leet-code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/oumersalah2-cmd/leet-code/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/oumersalah2-cmd/leet-code/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/oumersalah2-cmd/leet-code/tree/main/0881-boats-to-save-people/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/oumersalah2-cmd/leet-code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/oumersalah2-cmd/leet-code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -98,4 +99,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/oumersalah2-cmd/leet-code/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/oumersalah2-cmd/leet-code/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/oumersalah2-cmd/leet-code/tree/main/0739-daily-temperatures/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/oumersalah2-cmd/leet-code/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
