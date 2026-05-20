@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/oumersalah2-cmd/leet-code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/oumersalah2-cmd/leet-code/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/oumersalah2-cmd/leet-code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/oumersalah2-cmd/leet-code/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/oumersalah2-cmd/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/oumersalah2-cmd/leet-code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/oumersalah2-cmd/leet-code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/oumersalah2-cmd/leet-code/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0763-partition-labels](https://github.com/oumersalah2-cmd/leet-code/tree/main/0763-partition-labels/) | Medium |
@@ -122,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/oumersalah2-cmd/leet-code/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/oumersalah2-cmd/leet-code/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
