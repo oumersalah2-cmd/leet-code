@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/oumersalah2-cmd/leet-code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/oumersalah2-cmd/leet-code/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/oumersalah2-cmd/leet-code/tree/main/0006-zigzag-conversion/) | Medium |
 | [0010-regular-expression-matching](https://github.com/oumersalah2-cmd/leet-code/tree/main/0010-regular-expression-matching/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/oumersalah2-cmd/leet-code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/oumersalah2-cmd/leet-code/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
