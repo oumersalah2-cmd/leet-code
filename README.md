@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/oumersalah2-cmd/leet-code/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/oumersalah2-cmd/leet-code/tree/main/0007-reverse-integer/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/oumersalah2-cmd/leet-code/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## String
 | Problem Name | Difficulty |
