@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/oumersalah2-cmd/leet-code/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/oumersalah2-cmd/leet-code/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/oumersalah2-cmd/leet-code/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/oumersalah2-cmd/leet-code/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/oumersalah2-cmd/leet-code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/oumersalah2-cmd/leet-code/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/oumersalah2-cmd/leet-code/tree/main/0739-daily-temperatures/) | Medium |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/oumersalah2-cmd/leet-code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/oumersalah2-cmd/leet-code/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/oumersalah2-cmd/leet-code/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/oumersalah2-cmd/leet-code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/oumersalah2-cmd/leet-code/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0763-partition-labels](https://github.com/oumersalah2-cmd/leet-code/tree/main/0763-partition-labels/) | Medium |
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/oumersalah2-cmd/leet-code/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/oumersalah2-cmd/leet-code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0881-boats-to-save-people](https://github.com/oumersalah2-cmd/leet-code/tree/main/0881-boats-to-save-people/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/oumersalah2-cmd/leet-code/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
