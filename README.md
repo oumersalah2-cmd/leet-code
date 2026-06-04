@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/oumersalah2-cmd/leet-code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/oumersalah2-cmd/leet-code/tree/main/0006-zigzag-conversion/) | Medium |
 | [0010-regular-expression-matching](https://github.com/oumersalah2-cmd/leet-code/tree/main/0010-regular-expression-matching/) | Hard |
+| [0020-valid-parentheses](https://github.com/oumersalah2-cmd/leet-code/tree/main/0020-valid-parentheses/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/oumersalah2-cmd/leet-code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/oumersalah2-cmd/leet-code/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0763-partition-labels](https://github.com/oumersalah2-cmd/leet-code/tree/main/0763-partition-labels/) | Medium |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/oumersalah2-cmd/leet-code/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/oumersalah2-cmd/leet-code/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0739-daily-temperatures](https://github.com/oumersalah2-cmd/leet-code/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
